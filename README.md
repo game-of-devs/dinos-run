@@ -1,2 +1,2 @@
-# dinos-run
+# Memes Run
 Projeto de DOJO para criação de um jogo multiplayer baseado no game do chrome Dino(chrome://dino).
